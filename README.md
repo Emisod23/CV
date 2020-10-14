@@ -10,6 +10,7 @@ Phone: +66 6666 6666
 Email: (länka)Doomguy666@killdemons.hell
 Twitter: @TheHellWalker
 
+(Linje i blå)
 
 (underrubrik blå text med understräck bold)Professional experience
 (lista)(liten text som är grå)2020
