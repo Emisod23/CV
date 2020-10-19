@@ -2,3 +2,28 @@ body {
     margin: 0 auto;
     width: 60%;
 }
+.portrait {
+    float: right;
+}
+.logo {
+    float: middle;
+    width: 50%;
+}
+.main-heading {
+    font-size: 2rem;
+    color: rgb(28,69,135);
+    border-bottom: 1px solid rgb(28,69,135);
+    margin-bottom: 0;
+}
+.time-heading {
+    font-size: 0.7rem;
+    color: #959595;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.experience {
+    margin-top: 0;
+}
+.rubrik{
+    margin-bottom: 0;
+}
